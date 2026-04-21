@@ -159,7 +159,7 @@ lib/
 ## 👨‍💻 Authors
 
 *   **Muhammad Bilal** - *Lead Developer* - [GitHub](https://github.com/MBilal26)
-*   **Usman** - *Developer* -- [GitHub](https://github.com/Usman1dev) -- [LinkedIn]([https://github.com/Usman1dev](https://www.linkedin.com/in/usman0310)) 
+*   **Usman** - *Developer* -- [GitHub](https://github.com/Usman1dev)
 *   **Usaidullah Rehan** - *Developer*
 
 <br/>
